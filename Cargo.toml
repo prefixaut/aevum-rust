@@ -1,0 +1,7 @@
+[package]
+name = "aevum"
+version = "0.1.0"
+authors = ["PreFiXAUT <mail@prefix.moe>"]
+edition = "2018"
+
+[dependencies]
